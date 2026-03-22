@@ -8,6 +8,7 @@
 
 steps:
   - name: hello
+    image: alpine
     commands:
       - echo "CI works!!"
       - uname -a
