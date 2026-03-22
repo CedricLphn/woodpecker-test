@@ -9,7 +9,7 @@
 steps:
   - name: hello
     commands:
-      - echo "CI works!"
+      - echo "CI works!!"
       - uname -a
 
 
